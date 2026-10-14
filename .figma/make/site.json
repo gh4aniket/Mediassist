@@ -1,0 +1,10 @@
+{
+  "description": "Streamline healthcare coordination for patients, hospital staff, and ambulance drivers with real-time tracking, appointment management, and AI assistance.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
